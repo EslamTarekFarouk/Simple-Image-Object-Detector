@@ -2,6 +2,7 @@
 ### [Dependencies]
 - streamlit
 - ultralytics
+- PIL
 ### You can run the code on Google Colab by following these steps:
 1- open the link on colab
 <br>
